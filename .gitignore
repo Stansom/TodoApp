@@ -27,3 +27,6 @@ Temporary Items
 
 # VS Code
 .vscode
+
+# WebStorm
+.idea

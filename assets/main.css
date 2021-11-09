@@ -7,9 +7,6 @@
 }
 
 body {
-    /* margin: 0;
-    padding: 0; */
-    /* width: 330px; */
     height: 100vh;
     overflow: hidden;
 }
@@ -17,11 +14,10 @@ body {
 header {
     margin: 0;
     padding: 0;
-    /* height: 120px; */
 }
 
 main {
-    /* height: 100vh; */
+    height: 100vh;
     width: 100vw;
 }
 
@@ -54,9 +50,9 @@ main {
 }
 
 .container {
-    /* width: 800px; */
+    width: 80vw;
     height: 82vh;
-    margin: 0 3rem;
+    margin: 0 auto;
 }
 
 .d-flex {
@@ -129,7 +125,7 @@ main {
 
 .text-shadow-22 {
     text-shadow: 2px 1px 1px #02002469, 4px 1px 5px #0200243a,
-        18px 1px 10px #0200246e;
+    18px 1px 10px #0200246e;
 }
 
 .grad-ocean {
@@ -148,7 +144,7 @@ main {
     margin-top: 1rem;
     height: 80vh;
     width: 80vw;
-    border: 1px solid rgba(26, 30, 32, 0.603);
+    border: 1px solid rgba(66, 142, 185, 0.6);
     border-radius: 20px;
 }
 
@@ -288,7 +284,6 @@ input[type="checkbox"]:hover {
 }
 
 .bottom-controls {
-    width: 90vw;
     justify-content: flex-end;
 }
 
@@ -300,7 +295,7 @@ input[type="checkbox"]:hover {
     display: inline-block;
     cursor: pointer;
     color: #ffffff;
-    font-family: Arial;
+    font-family: Arial, serif;
     font-size: 0.9rem;
     text-decoration: none;
     text-align: center;
